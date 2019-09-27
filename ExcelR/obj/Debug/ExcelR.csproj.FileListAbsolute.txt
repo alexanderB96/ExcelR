@@ -1,0 +1,141 @@
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\ExcelR.exe.config
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\ExcelR.exe
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\ExcelR.pdb
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\CircularProgressBar.dll
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\ClosedXML.dll
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\ClosedXML.Report.dll
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\DocumentFormat.OpenXml.dll
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\ExcelNumberFormat.dll
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\FastMember.dll
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\Oracle.ManagedDataAccess.dll
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\System.Linq.Dynamic.Core.dll
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\System.ValueTuple.dll
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\WinFormAnimation.dll
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\ClosedXML.pdb
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\ClosedXML.xml
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\DocumentFormat.OpenXml.xml
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\ExcelNumberFormat.xml
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\bin\Debug\System.Linq.Dynamic.Core.xml
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.csprojAssemblyReference.cache
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.Form1.resources
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.Loading.resources
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.LoadingNew.resources
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.Properties.Resources.resources
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.ViborTam.resources
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.csproj.GenerateResource.cache
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.csproj.CoreCompileInputs.cache
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.csproj.CopyComplete
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.exe
+I:\Ап Софт\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.pdb
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\ExcelR.exe.config
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\ExcelR.exe
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\ExcelR.pdb
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\CircularProgressBar.dll
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\ClosedXML.dll
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\ClosedXML.Report.dll
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\DocumentFormat.OpenXml.dll
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\ExcelNumberFormat.dll
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\FastMember.dll
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\System.Linq.Dynamic.Core.dll
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\System.ValueTuple.dll
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\WinFormAnimation.dll
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\ClosedXML.pdb
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\ClosedXML.xml
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\DocumentFormat.OpenXml.xml
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\ExcelNumberFormat.xml
+D:\ExcelR\ExcelR\ExcelR\bin\Debug\System.Linq.Dynamic.Core.xml
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.csprojAssemblyReference.cache
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.CAD_2_6.resources
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.ConnectDB.resources
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.Form1.resources
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.Loading.resources
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.LoadingNew.resources
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.MOT.resources
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.Properties.Resources.resources
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.SelectDateView.resources
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.ShtatFaktView.resources
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.ViborTam.resources
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.csproj.GenerateResource.cache
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.csproj.CoreCompileInputs.cache
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.csproj.CopyComplete
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.exe
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.pdb
+D:\ExcelR\ExcelR\ExcelR\obj\Debug\ExcelR.AUtoriz.resources
+I:\нюь\ExcelR\ExcelR\bin\Debug\ExcelR.exe.config
+I:\нюь\ExcelR\ExcelR\bin\Debug\ExcelR.exe
+I:\нюь\ExcelR\ExcelR\bin\Debug\ExcelR.pdb
+I:\нюь\ExcelR\ExcelR\bin\Debug\CircularProgressBar.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ClosedXML.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ClosedXML.Report.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\DocumentFormat.OpenXml.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ExcelNumberFormat.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\FastMember.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\Oracle.ManagedDataAccess.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\System.Linq.Dynamic.Core.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\System.ValueTuple.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\WinFormAnimation.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ClosedXML.pdb
+I:\нюь\ExcelR\ExcelR\bin\Debug\ClosedXML.xml
+I:\нюь\ExcelR\ExcelR\bin\Debug\DocumentFormat.OpenXml.xml
+I:\нюь\ExcelR\ExcelR\bin\Debug\ExcelNumberFormat.xml
+I:\нюь\ExcelR\ExcelR\bin\Debug\System.Linq.Dynamic.Core.xml
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.AUtoriz.resources
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.CAD_2_6.resources
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.ConnectDB.resources
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.Form1.resources
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.Loading.resources
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.LoadingNew.resources
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.MOT.resources
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.Properties.Resources.resources
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.SelectDateView.resources
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.ShtatFaktView.resources
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.ViborTam.resources
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.csproj.GenerateResource.cache
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.csproj.CoreCompileInputs.cache
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.csproj.CopyComplete
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.exe
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.pdb
+I:\нюь\ExcelR\ExcelR\obj\Debug\ExcelR.exe.licenses
+I:\нюь\ExcelR\ExcelR\bin\Debug\DevExpress.Data.v17.2.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\DevExpress.Utils.v17.2.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\DevExpress.XtraBars.v17.2.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\DevExpress.Data.v17.2.xml
+I:\нюь\ExcelR\ExcelR\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+I:\нюь\ExcelR\ExcelR\bin\Debug\DevExpress.Utils.v17.2.xml
+I:\нюь\ExcelR\ExcelR\bin\Debug\DevExpress.XtraBars.v17.2.xml
+I:\нюь\ExcelR\ExcelR\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+I:\нюь\ExcelR\ExcelR\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+I:\нюь\ExcelR\ExcelR\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+I:\нюь\ExcelR\ExcelR\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+I:\нюь\ExcelR\ExcelR\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll

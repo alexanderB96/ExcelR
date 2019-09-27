@@ -1,0 +1,15 @@
+﻿"ExcelR.exe" (CLR v4.0.30319: DefaultDomain). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"ExcelR.exe" (CLR v4.0.30319: DefaultDomain). Загружено "D:\ExcelR\ExcelR\ExcelR\bin\Debug\ExcelR.exe". Символы загружены.
+"ExcelR.exe" (CLR v4.0.30319: ExcelR.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"ExcelR.exe" (CLR v4.0.30319: ExcelR.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"ExcelR.exe" (CLR v4.0.30319: ExcelR.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"ExcelR.exe" (CLR v4.0.30319: ExcelR.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"ExcelR.exe" (CLR v4.0.30319: ExcelR.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"ExcelR.exe" (CLR v4.0.30319: ExcelR.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"ExcelR.exe" (CLR v4.0.30319: ExcelR.exe). Загружено "C:\WINDOWS\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\14.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll". Сборка модуля выполнена без символов.
+"ExcelR.exe" (CLR v4.0.30319: ExcelR.exe). Загружено "C:\WINDOWS\assembly\GAC_MSIL\office\15.0.0.0__71e9bce111e9429c\office.dll". Сборка модуля выполнена без символов.
+"ExcelR.exe" (CLR v4.0.30319: ExcelR.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"ExcelR.exe" (CLR v4.0.30319: ExcelR.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Dynamic\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Dynamic.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"ExcelR.exe" (CLR v4.0.30319: ExcelR.exe). Загружено "Anonymously Hosted DynamicMethods Assembly". 
+"ExcelR.exe" (CLR v4.0.30319: ExcelR.exe). Загружено "System.Dynamic.DynamicAssembly". 
+Программа "[2296] ExcelR.exe" завершилась с кодом -1 (0xffffffff).
